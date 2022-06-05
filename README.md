@@ -6,10 +6,6 @@ Looking to build up a portfolio of ML projects to make a shift in work in the fu
 
 Mostly interested in working on ML based projects to solve real world problems.
 
-## :computer: Current projects
-- ML crane operator
-- finising my house
-
 
 <!---
 kkalera/kkalera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

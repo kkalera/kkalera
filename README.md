@@ -1,4 +1,4 @@
-# Hi 👋, I’m Kenneth
+# Hi 👋, I’m Kenneth.
 
 ## :arrow_forward: About me
 I'm a self taught developer working on personal projects before and after my day job as a crane operator. 

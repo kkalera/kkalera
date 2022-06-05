@@ -1,8 +1,7 @@
 # 👋 Hi , I’m Kenneth.
 
 ## About me
-I'm a self taught developer working on personal projects before and after my day job as a crane operator. 
-Looking to build up a portfolio of ML projects to make a shift in work in the future or start a startup.
+I'm a self taught developer working on a bachelor Applied Artificial Intelligence @ International University of Applied Sciences before and after my day job as a crane operator. 
 
 Mostly interested in working on ML based projects to solve real world problems.
 

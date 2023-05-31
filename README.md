@@ -1,9 +1,9 @@
 # 👋 Hi , I’m Kenneth.
 
 ## About me
-I'm a self taught developer working on personal besides my day job as a crane operator. 
+I'm a self taught developer working on personal projects and studying data science @ Turing College besides my day job as a crane operator.
 
-Mostly interested in working on ML projects to medical and vision based problems.
+Mostly interested in working on ML projects for medical and vision based problems.
 
 
 <!---

@@ -1,7 +1,5 @@
 👋 Hi there! 
 
-&nbsp;
-
 I'm Kenneth, a self-taught developer currently pursuing my passion for data science at Turing College and co-author of the [df-squeezer package](https://pypi.org/project/df-squeezer/), a tool designed to optimize data frame manipulation. Originating from a background in product development, my voyage into technology was ignited by a desire to innovate.
 
 &nbsp;

@@ -13,7 +13,7 @@
 
 ## 👨 About Me
 
-I'm a self-taught developer currently pursuing my passion for data science at Turing College and co-author of the [df-squeezer package](https://pypi.org/project/df-squeezer/), a tool designed to optimize data frame manipulation. 
+I'm a self-taught developer currently pursuing my passion for data science at Turing College and co-author of the [df-squeezer package](https://pypi.org/project/df-squeezer/), a tool designed to optimize dataframe memory usage. 
 
 My interests lie in the fascinating realm of computer vision, robotics and automation and AI applications in the medical sector. I believe that these areas have the potential to transform the way we live and work, and I'm excited to be a part of this transformation.
 

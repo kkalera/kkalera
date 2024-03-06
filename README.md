@@ -21,14 +21,6 @@ I'm Kenneth, a self-taught developer currently pursuing my passion for data scie
 
 🔍 My interests lie in the fascinating realm of computer vision, robotics and automation and AI applications in the medical sector. I believe that these areas have the potential to transform the way we live and work, and I'm excited to be a part of this transformation.
 
-&nbsp;
-
-## 🛠️ Current Technologies And Tools:
-
-<li>Pandas <img src="images/icons/pandas.png" style="display:inline-block; max-width:25px;"/></li>
-<li>Docker <i class="ci ci-docker ci-2x"></i></li>
-<li>Google Cloud <i class="ci ci-google ci-2x"></i></li>
-<li>Github <i class="ci ci-github ci-2x"></i></li>
 
 
 &nbsp;

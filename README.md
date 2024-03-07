@@ -20,67 +20,29 @@ My interests lie in the fascinating realm of computer vision, robotics and autom
 &nbsp;
 
 ## 🛠️ Tools:
-
-<div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px; display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="display: flex; align-items: center;">
-        Python <i class="ci ci-python ci-2x" style="margin-left: 5px;"></i>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Pandas <img src="images/icons/pandas.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Numpy <img src="images/icons/numpy.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Matplotlib <img src="images/icons/matplotlib.jpg" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Seaborn <img src="images/icons/seaborn.jpg" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Scikit Learn <img src="images/icons/sklearn.jpg" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        XGBoost <img src="images/icons/xgboost.jpg" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Optuna <img src="images/icons/optuna.jpg" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        SHAP <img src="images/icons/shap.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        FastAI <img src="images/icons/fastai.jpg" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Docker <i class="ci ci-docker ci-2x" style="margin-left: 5px;"></i>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Google Cloud <i class="ci ci-google ci-2x" style="margin-left: 5px;"></i>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Kotlin <img src="images/icons/kotlin.jpg" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        HTML <img src="images/icons/html.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        JavaScript <img src="images/icons/javascript.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        SQL <img src="images/icons/sql.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        GCODE <img src="images/icons/gcode.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Tableau <img src="images/icons/tableau.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-    <div style="display: flex; align-items: center;">
-        Looker Studio <img src="images/icons/looker.png" style="margin-left: 5px; max-width: 25px;"/>
-    </div>
-</div>
-
+<p align="center">
+<b >Python &nbsp; <img src="images/icons/python.jpeg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Pandas &nbsp; <img src="images/icons/pandas.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Numpy &nbsp;<img src="images/icons/numpy.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Matplotlib &nbsp;<img src="images/icons/matplotlib.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Seaborn &nbsp;<img src="images/icons/seaborn.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Scikit Learn &nbsp;<img src="images/icons/sklearn.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >XGBoost &nbsp;<img src="images/icons/xgboost.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Optuna &nbsp;<img src="images/icons/optuna.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >SHAP &nbsp;<img src="images/icons/shap.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >FastAI &nbsp;<img src="images/icons/fastai.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Docker &nbsp;<img src="images/icons/docker.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Google Cloud &nbsp;<img src="images/icons/google.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >SQL &nbsp;<img src="images/icons/sql.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Tableau &nbsp;<img src="images/icons/tableau.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Looker Studio &nbsp;<img src="images/icons/looker.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >HTML &nbsp;<img src="images/icons/html.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Javascript &nbsp;<img src="images/icons/javascript.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Java &nbsp;<img src="images/icons/java.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Kotlin &nbsp;<img src="images/icons/kotlin.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Android &nbsp;<img src="images/icons/android.png" alt="android" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >GCODE &nbsp;<img src="images/icons/gcode.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+</p>
 
 &nbsp;
 

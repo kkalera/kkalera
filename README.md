@@ -19,7 +19,7 @@ My interests lie in the fascinating realm of computer vision, robotics and autom
 
 &nbsp;
 
-## 🛠️ Tools:
+## 🛠️ My Ever Expanding Toolbox:
 <p align="center">
 <b >Python &nbsp; <img src="images/icons/python.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
 <b >Pandas &nbsp; <img src="images/icons/pandas.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>

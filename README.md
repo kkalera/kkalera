@@ -41,7 +41,7 @@ My interests lie in the fascinating realm of computer vision, robotics and autom
 <b >Java &nbsp;<img src="images/icons/java.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
 <b >Kotlin &nbsp;<img src="images/icons/kotlin.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
 <b >Android &nbsp;<img src="images/icons/android.png" alt="android" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >GCODE &nbsp;<img src="images/icons/gcode.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >GCODE &nbsp;<img src="images/icons/gcode.png" width="25" height="25"/></b>
 </p>
 
 &nbsp;

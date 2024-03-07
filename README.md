@@ -21,27 +21,26 @@ My interests lie in the fascinating realm of computer vision, robotics and autom
 
 ## 🛠️ Tools:
 <p align="center">
-<b >Python &nbsp; <img src="images/icons/python.jpeg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Pandas &nbsp; <img src="images/icons/pandas.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Numpy &nbsp;<img src="images/icons/numpy.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Matplotlib &nbsp;<img src="images/icons/matplotlib.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Seaborn &nbsp;<img src="images/icons/seaborn.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Scikit Learn &nbsp;<img src="images/icons/sklearn.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >XGBoost &nbsp;<img src="images/icons/xgboost.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Optuna &nbsp;<img src="images/icons/optuna.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >SHAP &nbsp;<img src="images/icons/shap.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >FastAI &nbsp;<img src="images/icons/fastai.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Docker &nbsp;<img src="images/icons/docker.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Google Cloud &nbsp;<img src="images/icons/google.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >SQL &nbsp;<img src="images/icons/sql.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Tableau &nbsp;<img src="images/icons/tableau.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Looker Studio &nbsp;<img src="images/icons/looker.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >HTML &nbsp;<img src="images/icons/html.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Javascript &nbsp;<img src="images/icons/javascript.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Java &nbsp;<img src="images/icons/java.png" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Kotlin &nbsp;<img src="images/icons/kotlin.jpg" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >Android &nbsp;<img src="images/icons/android.png" alt="android" width="25" height="25"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
-<b >GCODE &nbsp;<img src="images/icons/gcode.png" width="25" height="25"/></b>
+<b >Python &nbsp; <img src="images/icons/python.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Pandas &nbsp; <img src="images/icons/pandas.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Numpy &nbsp;<img src="images/icons/numpy.svg" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Matplotlib &nbsp;<img src="images/icons/matplotlib.svg" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Seaborn &nbsp;<img src="images/icons/seaborn.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Scikit Learn &nbsp;<img src="images/icons/sklearn.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >XGBoost &nbsp;<img src="images/icons/xgboost.jpg" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Optuna &nbsp;<img src="images/icons/optuna.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >SHAP &nbsp;<img src="images/icons/shap.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >FastAI &nbsp;<img src="images/icons/fastai.png" width="50" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Docker &nbsp;<img src="images/icons/docker.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Google Cloud &nbsp;<img src="images/icons/google.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >SQL &nbsp;<img src="images/icons/sql.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Tableau &nbsp;<img src="images/icons/tableau.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Looker Studio &nbsp;<img src="images/icons/looker.svg" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >HTML &nbsp;<img src="images/icons/html.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Javascript &nbsp;<img src="images/icons/javascript.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Java &nbsp;<img src="images/icons/java.png" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Kotlin &nbsp;<img src="images/icons/kotlin.jpg" width="30" height="30"/>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</b>
+<b >Android &nbsp;<img src="images/icons/android.png" alt="android" width="30" height="30"/></b>
 </p>
 
 &nbsp;
